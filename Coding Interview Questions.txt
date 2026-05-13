@@ -1,0 +1,9 @@
+
+
+write a program list contas animals like below 
+
+ //cat,cat,dog -----> output is 2 because 2 cats 
+
+//dog , dog, lion, tiger,tiger ---> output will be 4 because dog and tiger are matched  
+
+//

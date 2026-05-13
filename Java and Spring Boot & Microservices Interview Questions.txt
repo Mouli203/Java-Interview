@@ -1,0 +1,385 @@
+                                                                                   ====================== Core java ======================================================
+
+
+what is jit compiler?
+
+
+What java memory Model  and grabege Collection ?
+
+Do you Know about Serial Grbage coolector and paralle grbage collector?
+
+can you load the same class using difrent class loaders?
+
+do you know the parent deligation model?
+
+you need to design immutable class it contains mutable object ?
+
+what is Heap memory and Stack Memory ?
+
+what memory leaks?
+
+what is diffrence between == and .equals method?
+Have encounter the outmemoryexception ?
+
+Do you know where the local variable and static variable store?
+
+How the grabge collector effect on System memory?
+
+the are two inegers both have 200 when compare == what happen ?
+
+Explain The main() method java?
+
+what happen when you not declare static keyword  in main method?
+
+what is immutable in java?
+
+how to create immutable class in java?
+Ans) first make class as final and then set all fields as private and final and 
+        don't provide stters and constructors 
+
+
+is java is 100% is object orianted?
+ans)  No  because it will not allow the multiple inhertance  it is use primitive data types 
+
+
+how does implements polymorphism ?
+Ans)
+Method orriding 
+Method Overloading
+
+can class implments mutiple interfaces but extends one abstract class?
+
+explain what is parent exception Class? canyou explai it?
+
+In Java there are two interfaces have same default method and that is implemented in one class  how do know jvm wich method need to call?
+
+
+why do you think private method in java?
+
+when you go default method and when we go for static Method?
+
+what is variable Arugument in java? 
+
+in main method consit of String [] args method can we replace with variable args ?
+
+we have a test class  it has a static method suppose we are creating object with null  what it will work are Not?
+
+what is equals and hashcode contract() ?can you explain senarion why only equals overide can you explain?
+
+what is diffrence beetwen base class and abstract class?
+
+what is marker Interface?can we create marker interface and How?
+
+what is voltile Keyword?
+
+what is Syncronized in keyword ?
+
+what is diffrence between throw and throws ?
+
+can we functional interface without abstract method?
+
+suppose we have treset we are adding null and abc we want be print what happen?
+
+when happen when put return and window .exit in try and catch block still finally block will be excute?
+
+do you diffrence b/w the process and thred?
+
+have you face deadloack ? how to resolve this ? 
+
+can constructor should be private?
+
+can constructor should be final,abstract, static ?
+
+what happen when you call the non static method in the inside constructor that are overriden the inside sub class?
+
+what is diffrence b/w collection and collections ?
+
+what is diffrence b/w array list and linked list?
+
+what is diffrence beetween the abstract class and interface?
+Ans) abstract methods consist of  abstract and concereate methods 
+        in interface we consit of abstract methods for before java 8 after we also write the static and default methoda in java
+
+How to handle Eception In java ?
+
+do you use create Singleton pattren ?
+
+
+
+
+
+what are Hash Map?
+
+
+
+
+what is diffrence between hash set and tree set?
+
+Ans:  1.Tree set maintains the order and where as hash set does not maintain order 
+         2.Time complexity and space complexity is difrrent 
+
+can satsic method is overriden ? why ?
+
+
+
+What Are Features That are Introduced in Java 1.8v ?
+
+ans)   1. Lamda Exepcrtions 
+          2. Functional Interface
+          3. Stream API
+          4.Date and Time
+          5.Optional Class
+
+
+do you use create Singleton pattren ?
+
+what is diffrence between Syncronoiced map and concurent hash map?
+
+what is java reflection API?
+
+what is java fright recoder(JFR) ?do you know confiduration can you tell me the steps ?
+
+what is diffrence between iterator and list interator?
+
+what is diamond problem in functional interface?
+
+
+What is solid Priniples?
+
+have used java Genetrics concept ?how to use and how it is benfitng this to you?
+
+can you create instance of genric type paramter ?
+
+can you explain diffrence b/w <?>extends T and <?> super T ? 
+
+can you  tell me can static method in generic class used the class type parameter?
+
+what are changes in date and time in java 8?
+
+
+--------------------------------------Spring & Spring Boot ---------------------------------------------------------------
+
+what happen when the a sprinboot application satart?
+
+what are  reasons that springboot  start the application late ?
+
+what is the role of strater dependencies ?
+
+What are Advantges of springboot over spring?
+
+spring version 4 x. and spring boot 3.2
+
+how many ways to create spring boot application?
+
+what is springboot actuator?
+
+what is spring boot profiles?
+
+how to handle exception in globaly ?
+
+Hava you hered The Jeety Server?and how to write in pom.xml?
+
+how does spring resolves dependies in runtime?
+
+what is the @Springbootapllication Annotation
+
+what is diffrence b/w Springbootconfiguration and configuration ?
+
+best way to implment the single ton pattern ?
+
+what is the double check pattern for the singleton?
+
+what is diffrence between setter injection and constructor injection?
+
+can you explain spring bean lifesycle from instatiation to destruction?
+
+can you tell me which three annotations combine  spring boot internally?tell me USE cases?
+
+how to does springboot decide which bean is created internally ? 
+
+your building a springboot application that must support both sql and nosql datbase how could you stracture your springboot application?
+
+Why The field Injection as the bad practice ?
+
+have you faced circular dependency ? how can you resolve it?
+
+can you tell me how to disable auto configuration for a class ?
+
+what are springboot staters?
+
+can you tell me the @transaction on public and private methods?
+
+can you create stater for the your project ?
+
+can you explain diffrence b/w application.properties and application.yml? and which one is give the priority first ?
+
+how to activate profile at run time?
+
+have you encounter the n+1 problem ? how can you resolve ?
+ans) fetch join 
+
+you need to expose the pagination for the product catelog with milians of rows how would you design it?
+
+suppose you have dev, test,and prod how to set diffrent databases how to set this ?
+
+what happen if the any profile is active ?
+
+how to package your java apllication jar or war ?
+
+can use maven plugin in springboot project ?
+
+what are diffrent ways to run spring boot apllication ?
+
+Can You Tell me how to handle RequestMapping?
+
+do you know Respose Entity Exception ?
+
+do you know error Controller?
+
+what is diffrence betwen @ControllerAdvice and @RestControllerAdvice?
+
+yours Rest api  is experianceing slow response under load/ how can you resolve this
+
+can you tell 5 annotations that are used dialy life ?
+
+tell me 5 annotations tha are not used dialy life but that are important ?
+
+what use of @Controlleradvice?
+
+how to can you validate spring boot test annotation is started are not ?
+
+how spring manage trsactions in spring?
+
+how to secure rest Api spring ?
+
+you want handle the springboot application with high trafic how can you design the your application?
+
+can explain JWT token ?
+
+can you tell me diffrence b/w authentication and autherization ?
+
+how does spring sceurity filter work ?
+
+in your project you need to use the external api to consume the data how can you do this?rest template and webclient?
+
+how to familer the cache? can tell me what are annotations in springboot?
+
+can we enable and disable the configuration in spring boot?
+
+can we explain what ways to complex deployment to simpify the diployment stagey ?
+
+if your springboot application want to get the request from cros origin request how you can handle this?
+
+how does springboot smplifiesdevelopment of microservices ?
+
+how to manage user seesion in springboot when in higher trafic ?
+
+how to default endpoints actutor ? and how to secure the acutor to the endpoints?
+
+can we replace @repository to @Component ?
+
+
+
+--------------------------------------------Microservices------------------------------------------------------------------------
+
+why spring boot is prefered in microservices development? 
+ans)it is light wheight
+
+what are diffrent compomnents in microservices?can explain brief?
+
+what is circuit breaker pattern ?
+
+suppose springboot application need to commnicate the mutiple external systems so how would you design the resialiant and folt tolerent ?
+
+what is cache ? why ar useing that data?which one is used in the ?
+
+what is fault isolation ?
+
+how does service discovery worked In microservices?
+
+how does load balance ?
+
+what is role role of api gateway ? what is rate limiting?
+
+can you tell me diffrence b/w asyn and sync communication ?
+
+how to communicate the your api ?
+
+how to check heath  condition of all Microservices? and waht are end points ?
+
+what are log tool is useing currently? it is default are external ?
+
+how to handle log and monitor in microservices?
+ 
+in saga design pattern what is coregorphy and airctustation ?
+
+how do you handle in database transaction in microservices ?
+
+do you know CAP Therom in microservices?
+
+how to communicate microservices eachother ?
+
+what are dissadvantages of microservices ?
+
+if you create service for the zomoto how many services you will create?
+
+how to crete dto for the delivery boy in zomato ?
+
+
+you ask you need to do url shotening service how you  do?
+-------------------------------------------Git--------------------------------------------------------------------------------------
+
+how to resolve confilcts in github and gitlab?
+
+
+----------------------------------------------- junit ---------------------------------------------------------------------------------
+
+can you tell me diffrence b/w junit4 and junit 5?
+
+suppose your testing user service that requires user repository ? so how you mock the repository test doe't hit the data base?
+
+how to verify the no of methods calls in macito ?
+
+how to do you test exceptions areires with macito ?
+
+-------------------------------------------- Docker ----------------------------------------------------
+
+
+what is test container?
+
+what is diffrence b/w ci/cd 
+
+what is  your ci/cd stracture in your project ?
+
+
+-------------------------------------------- Maven ---------------------------------------------------
+
+
+maven build life Cycle ?
+
+what is default mavaen scope?
+
+what is mavaen plugin ? whare it is used ?
+
+what is setings.xml?
+
+
+
+------------------------------------- sql ---------------------------------------
+
+
+what is cluder and non cluster index?
+
+what is view ? how to does define table ?
+
+what to stored procedure how to differ the view ?
+
+what diff  delete , truncate and drop?
+
+when you should go for where and having clause ?
+
+what is stored procedure and how to differ function interface? 
+
+
+
+
