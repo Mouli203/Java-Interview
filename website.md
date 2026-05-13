@@ -7,4 +7,8 @@
 
 [Accenture](https://www.accenture.com/in-en/careers/jobsearch)
 
+[pearson](https://pearson.jobs/jobs/)
+
+
+
 
