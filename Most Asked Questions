@@ -1,0 +1,53 @@
+
+🔥 TOP 25 JAVA CODING QUESTIONS
+
+1. Sort Employee list using Comparator & Streams
+2. Find Top 3 highest salaries from Employee list
+3. Group Employees by Department using Streams
+4. Convert List to Map using Streams
+5. Find duplicate elements in array
+6. Find duplicate characters in String
+7. Find first non-repeated character
+8. Remove duplicates using Streams
+9. Find longest substring without repeating characters
+10. Balanced Parentheses problem using Stack
+11. LRU Cache implementation
+12. Producer Consumer problem
+13. Thread-safe Singleton implementation
+14. CompletableFuture coding scenario
+15. ConcurrentHashMap vs HashMap coding scenario
+16. Merge two sorted arrays
+17. Find intersection of two arrays
+18. Retry failed REST API 3 times
+19. Kafka consumer duplicate message handling
+20. Pagination implementation in Spring Boot
+21. Rate Limiter implementation
+22. Reverse words in sentence
+23. Count frequency of characters using HashMap
+24. Deadlock example in Java
+25. Write Immutable class in Java
+
+🔥 TOP 10 SQL QUESTIONS
+
+1. Find 2nd highest salary
+2. Find nth highest salary
+3. Remove duplicate records
+4. Employees having same salary
+5. Difference between WHERE and HAVING
+6. INNER JOIN vs LEFT JOIN
+7. Department-wise max salary query
+8. Pagination query using LIMIT/OFFSET
+9. Find duplicate rows in table
+10. Count employees department-wise
+
+🔥 Most repeated topics:
+✔ Java 8 Streams
+✔ Multithreading
+✔ HashMap internal working
+✔ Microservices
+✔ Kafka
+✔ Spring Boot exception handling
+✔ SQL optimization
+✔ Collections
+✔ Comparable vs Comparator
+✔ map() vs flatMap()
